@@ -1,1 +1,1 @@
-A simple DiscordJS bot dat detects the presence updates of all the bots on the server
+A simple DiscordJS bot that detects the presence updates of all the bots on the server
